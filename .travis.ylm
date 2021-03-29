@@ -1,5 +1,5 @@
 language: python
 python:
-    - 3.8.8
+    - 3.8
 install:
-    - pip install -r requirements-dev.txt    
+    - pip install requirements-dev.txt
